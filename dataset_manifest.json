@@ -1,0 +1,380 @@
+[
+    {
+        "clip_id": "201421521",
+        "video_path": "videos\\201421521.mp4",
+        "xml_path": "annotations\\201421521\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1192
+    },
+    {
+        "clip_id": "201466721",
+        "video_path": "videos\\201466721.mp4",
+        "xml_path": "annotations\\201466721\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 935
+    },
+    {
+        "clip_id": "201471011",
+        "video_path": "videos\\201471011.mp4",
+        "xml_path": "annotations\\201471011\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 774
+    },
+    {
+        "clip_id": "201473281",
+        "video_path": "videos\\201473281.mp4",
+        "xml_path": "annotations\\201473281\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 424
+    },
+    {
+        "clip_id": "201490091",
+        "video_path": "videos\\201490091.mp4",
+        "xml_path": "annotations\\201490091\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1039
+    },
+    {
+        "clip_id": "201492091",
+        "video_path": "videos\\201492091.mp4",
+        "xml_path": "annotations\\201492091\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 525
+    },
+    {
+        "clip_id": "201492471",
+        "video_path": "videos\\201492471.mp4",
+        "xml_path": "annotations\\201492471\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 948
+    },
+    {
+        "clip_id": "201499621",
+        "video_path": "videos\\201499621.mp4",
+        "xml_path": "annotations\\201499621\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 705
+    },
+    {
+        "clip_id": "201520471",
+        "video_path": "videos\\201520471.mp4",
+        "xml_path": "annotations\\201520471\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 607
+    },
+    {
+        "clip_id": "201767701",
+        "video_path": "videos\\201767701.mp4",
+        "xml_path": "annotations\\201767701\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 348
+    },
+    {
+        "clip_id": "201817721",
+        "video_path": "videos\\201817721.mp4",
+        "xml_path": "annotations\\201817721\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 535
+    },
+    {
+        "clip_id": "201855901_trimmed",
+        "video_path": "videos\\201855901.mp4",
+        "xml_path": "annotations\\201855901\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 357
+    },
+    {
+        "clip_id": "201882221",
+        "video_path": "videos\\201882221.mp4",
+        "xml_path": "annotations\\201882221\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1480
+    },
+    {
+        "clip_id": "201885581",
+        "video_path": "videos\\201885581.mp4",
+        "xml_path": "annotations\\201885581\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 2425
+    },
+    {
+        "clip_id": "201898741",
+        "video_path": "videos\\201898741.mp4",
+        "xml_path": "annotations\\201898741\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1091
+    },
+    {
+        "clip_id": "215841801",
+        "video_path": "videos\\215841801.mp4",
+        "xml_path": "annotations\\215841801\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 2247
+    },
+    {
+        "clip_id": "215842691",
+        "video_path": "videos\\215842691.mp4",
+        "xml_path": "annotations\\215842691\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1922
+    },
+    {
+        "clip_id": "451625301",
+        "video_path": "videos\\451625301.mp4",
+        "xml_path": "annotations\\451625301\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 902
+    },
+    {
+        "clip_id": "457429561",
+        "video_path": "videos\\457429561.mp4",
+        "xml_path": "annotations\\457429561\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 727
+    },
+    {
+        "clip_id": "468137",
+        "video_path": "videos\\468137.mp4",
+        "xml_path": "annotations\\468137\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1116
+    },
+    {
+        "clip_id": "468205",
+        "video_path": "videos\\468205.mp4",
+        "xml_path": "annotations\\468205\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 385
+    },
+    {
+        "clip_id": "481140",
+        "video_path": "videos\\481140.mp4",
+        "xml_path": "annotations\\481140\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1596
+    },
+    {
+        "clip_id": "608966902",
+        "video_path": "videos\\608966902.mp4",
+        "xml_path": "annotations\\608966902\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 990
+    },
+    {
+        "clip_id": "613970661",
+        "video_path": "videos\\613970661.mp4",
+        "xml_path": "annotations\\613970661\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 540
+    },
+    {
+        "clip_id": "614466527",
+        "video_path": "videos\\614466527.mp4",
+        "xml_path": "annotations\\614466527\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1039
+    },
+    {
+        "clip_id": "615683900",
+        "video_path": "videos\\615683900.mp4",
+        "xml_path": "annotations\\615683900\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1035
+    },
+    {
+        "clip_id": "622466935_part1",
+        "video_path": "videos\\622466935.mp4",
+        "xml_path": "annotations\\622466935\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1880
+    },
+    {
+        "clip_id": "622466935_part2",
+        "video_path": "videos\\622466935.mp4",
+        "xml_path": "annotations\\622466935\\annotations.xml",
+        "start_frame": 4685,
+        "end_frame": 5868
+    },
+    {
+        "clip_id": "629990957",
+        "video_path": "videos\\629990957.mp4",
+        "xml_path": "annotations\\629990957\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 434
+    },
+    {
+        "clip_id": "630107428",
+        "video_path": "videos\\630107428.mp4",
+        "xml_path": "annotations\\630107428\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 464
+    },
+    {
+        "clip_id": "630419434",
+        "video_path": "videos\\630419434.mp4",
+        "xml_path": "annotations\\630419434\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 585
+    },
+    {
+        "clip_id": "631235527",
+        "video_path": "videos\\631235527.mp4",
+        "xml_path": "annotations\\631235527\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1513
+    },
+    {
+        "clip_id": "631557603",
+        "video_path": "videos\\631557603.mp4",
+        "xml_path": "annotations\\631557603\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 449
+    },
+    {
+        "clip_id": "631990594",
+        "video_path": "videos\\631990594.mp4",
+        "xml_path": "annotations\\631990594\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 558
+    },
+    {
+        "clip_id": "633162868",
+        "video_path": "videos\\633162868.mp4",
+        "xml_path": "annotations\\633162868\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 541
+    },
+    {
+        "clip_id": "634589541",
+        "video_path": "videos\\634589541.mp4",
+        "xml_path": "annotations\\634589541\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1130
+    },
+    {
+        "clip_id": "634656042",
+        "video_path": "videos\\634656042.mp4",
+        "xml_path": "annotations\\634656042\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 861
+    },
+    {
+        "clip_id": "636788178",
+        "video_path": "videos\\636788178.mp4",
+        "xml_path": "annotations\\636788178\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 962
+    },
+    {
+        "clip_id": "637403145",
+        "video_path": "videos\\637403145.mp4",
+        "xml_path": "annotations\\637403145\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1636
+    },
+    {
+        "clip_id": "637490538",
+        "video_path": "videos\\637490538.mp4",
+        "xml_path": "annotations\\637490538\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 404
+    },
+    {
+        "clip_id": "637490548",
+        "video_path": "videos\\637490548.mp4",
+        "xml_path": "annotations\\637490548\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1095
+    },
+    {
+        "clip_id": "638431558",
+        "video_path": "videos\\638431558.mp4",
+        "xml_path": "annotations\\638431558\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 464
+    },
+    {
+        "clip_id": "639498597",
+        "video_path": "videos\\639498597.mp4",
+        "xml_path": "annotations\\639498597\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 825
+    },
+    {
+        "clip_id": "639621542",
+        "video_path": "videos\\639621542.mp4",
+        "xml_path": "annotations\\639621542\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 738
+    },
+    {
+        "clip_id": "639621545",
+        "video_path": "videos\\639621545.mp4",
+        "xml_path": "annotations\\639621545\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 329
+    },
+    {
+        "clip_id": "639658930",
+        "video_path": "videos\\639658930.mp4",
+        "xml_path": "annotations\\639658930\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 735
+    },
+    {
+        "clip_id": "639698395",
+        "video_path": "videos\\639698395.mp4",
+        "xml_path": "annotations\\639698395\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 758
+    },
+    {
+        "clip_id": "642020001",
+        "video_path": "videos\\642020001.mp4",
+        "xml_path": "annotations\\642020001\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1058
+    },
+    {
+        "clip_id": "643092585",
+        "video_path": "videos\\643092585.mp4",
+        "xml_path": "annotations\\643092585\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 660
+    },
+    {
+        "clip_id": "643092595",
+        "video_path": "videos\\643092595.mp4",
+        "xml_path": "annotations\\643092595\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 900
+    },
+    {
+        "clip_id": "643092607",
+        "video_path": "videos\\643092607.mp4",
+        "xml_path": "annotations\\643092607\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1410
+    },
+    {
+        "clip_id": "643481638",
+        "video_path": "videos\\643481638.mp4",
+        "xml_path": "annotations\\643481638\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 491
+    },
+    {
+        "clip_id": "643574202",
+        "video_path": "videos\\643574202.mp4",
+        "xml_path": "annotations\\643574202\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 1620
+    },
+    {
+        "clip_id": "646703208",
+        "video_path": "videos\\646703208.mp4",
+        "xml_path": "annotations\\646703208\\annotations.xml",
+        "start_frame": 0,
+        "end_frame": 3098
+    }
+]

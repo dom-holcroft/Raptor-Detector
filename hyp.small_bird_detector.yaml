@@ -1,0 +1,47 @@
+# hyp.bird_pretrain.adam.yaml
+# IMPORTANT: You must run your script with '--adam' or '--optimizer AdamW'
+
+# --- AdamW Learning Rates ---
+lr0: 0.001       # Initial learning rate for Adam/AdamW (MUST be 1e-3)
+lrf: 0.1         # Final OneCycleLR learning rate (lr0 * lrf = 0.0001)
+momentum: 0.937  # Beta1 for Adam
+weight_decay: 0.0005
+warmup_epochs: 3.0
+warmup_momentum: 0.8
+warmup_bias_lr: 0.1
+
+# --- Loss Multipliers ---
+box: 0.05  # Box loss gain
+cls: 0.3   # Cls loss gain
+cls_pw: 1.0  # Cls BCELoss positive_weight
+obj: 0.7   # Obj loss gain (scale with pixels)
+obj_pw: 1.0  # Obj BCELoss positive_weight
+iou_t: 0.20  # IoU training threshold
+anchor_t: 4.0  # Anchor-multiple threshold
+fl_gamma: 0.0  # Focal loss gamma
+
+# --- Custom NWD Metric ---
+nwd_ratio: 0.5  # 50% NWD, 50% Inner-Shape IoU (Set to 0.0 for baseline)
+
+# --- Color Augmentation (LEAF-YOLO Defaults) ---
+hsv_h: 0.015  # Hue
+hsv_s: 0.7    # Saturation
+hsv_v: 0.4    # Value
+
+# --- Spatial & Geometric Augmentation (LEAF-YOLO Defaults) ---
+translate: 0.1   # Image translation (Drone pan stability)
+scale: 0.5       # Image scale (Simulates altitude variations)
+fliplr: 0.5      # Image flip left-right
+perspective: 0.0 # Keep 0 for drone top-down shots
+shear: 0.0
+
+# --- Advanced Augmentations (MVA2023 & LEAF-YOLO Fusion) ---
+mosaic: 1.0      # Mandatory for small targets (stitches 4 images together)
+mixup: 0.1       # Blends sky backgrounds. LEAF uses 0.1, MVA uses it to increase diversity.
+paste_in: 0.05    # Copy-Paste. The magic trick from the MVA paper. LEAF found 5% is the sweet spot.
+copy_paste: 0.0
+
+degrees: 0
+flipud: 0.0
+
+patience: 25

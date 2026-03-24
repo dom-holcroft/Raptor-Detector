@@ -1,0 +1,7 @@
+# raptor_data.yaml
+train: C:/Users/Dominic/Documents/Raptor-Detector/data/raptor_dataset/images/train
+val: C:/Users/Dominic/Documents/Raptor-Detector/data/raptor_dataset/images/val
+test: C:/Users/Dominic/Documents/Raptor-Detector/data/raptor_dataset/images/test
+
+nc: 2
+names: ['Non-Raptor', 'Raptor']

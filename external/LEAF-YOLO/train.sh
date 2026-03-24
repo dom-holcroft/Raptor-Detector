@@ -1,0 +1,1 @@
+python train.py --workers 16 --device 0 --batch-size 16 --epochs 1000 --data data/visdrone.yaml --img 640 640 --cfg cfg/LEAF-YOLO/leaf-sizes.yaml --weights '' --hyp data/hyp.scratch.visdrone.yaml --cache

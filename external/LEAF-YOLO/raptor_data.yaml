@@ -1,0 +1,8 @@
+# Absolute paths to your data
+train: C:/Users/Dominic/Documents/Raptor-Detector/yolo_dataset/images/train
+val: C:/Users/Dominic/Documents/Raptor-Detector/yolo_dataset/images/val
+
+# Classes
+nc: 2
+names: ['Raptor', 'Non-Raptor']
+

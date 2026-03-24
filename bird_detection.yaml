@@ -1,7 +1,9 @@
-# Use absolute paths so LEAF-YOLO (running in the external folder) doesn't get lost
-train: C:/Users/Dominic/Documents/Raptor-Detector/data/small_bird_dataset/images/train
-val: C:/Users/Dominic/Documents/Raptor-Detector/data/small_bird_dataset/images/val
+# The base path relative to this YAML file
+path: data/small_bird_dataset
 
-# Classes
+# These will automatically resolve to data/small_bird_dataset/images/...
+train: images/train
+val: images/val
+
 nc: 1
 names: ['bird']

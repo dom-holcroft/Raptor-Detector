@@ -1,7 +1,9 @@
-# raptor_data.yaml
-train: C:/Users/Dominic/Documents/Raptor-Detector/data/raptor_dataset/images/train
-val: C:/Users/Dominic/Documents/Raptor-Detector/data/raptor_dataset/images/val
-test: C:/Users/Dominic/Documents/Raptor-Detector/data/raptor_dataset/images/test
+path: data/raptor_dataset
+
+# These will automatically resolve to data/raptor_dataset/images/...
+train: images/train
+val: images/val
+test: images/test
 
 nc: 2
 names: ['Non-Raptor', 'Raptor']

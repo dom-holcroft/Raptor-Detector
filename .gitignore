@@ -209,3 +209,7 @@ __marimo__/
 # Folders
 videos/ 
 data/
+
+runs/
+external/LEAF-YOLO/runs/
+data.zip
